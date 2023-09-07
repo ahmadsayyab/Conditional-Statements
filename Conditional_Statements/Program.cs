@@ -10,6 +10,8 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
+            Exe_8.FindLargestNum();
         }
+
     }
 }
