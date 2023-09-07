@@ -22,22 +22,21 @@ namespace Conditional_Statements
             {
 
                 n = 1;
-                Console.WriteLine($"the value of m = {m}");
-                Console.WriteLine($"the value of n = {n}");
+                
             }
 
             else if(m == 0)
             {
                 n = 0;
-                Console.WriteLine($"the value of m = {m}");
-                Console.WriteLine($"the value of n = {n}");
+                
             }
             else
             {
                 n = -1;
-                Console.WriteLine($"the value of m = {m}");
-                Console.WriteLine($"the value of n = {n}");
+                
             }
+            Console.WriteLine($"the value of m = {m}");
+            Console.WriteLine($"the value of n = {n}");
         }
 
 
