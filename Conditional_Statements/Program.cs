@@ -10,6 +10,9 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
+            Exe_13.CheckTemp();
+
+
         }
     }
 }
