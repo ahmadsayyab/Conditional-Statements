@@ -10,6 +10,7 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
+            Exe_21.ShowDigitInWords();
         }
     }
 }
